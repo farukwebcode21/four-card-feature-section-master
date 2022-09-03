@@ -33,7 +33,7 @@ body {
 .container header h2 {
   font-weight: 200;
   font-size: 25px;
-  color: var(--ery-dark-blue);
+  color: var(--grayish-blue);
 }
 .container header h3 {
   font-weight: 600;
